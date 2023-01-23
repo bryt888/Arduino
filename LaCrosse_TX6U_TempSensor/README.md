@@ -1,6 +1,6 @@
 ![Original Article]([http://url/to/img.png](https://forum.arduino.cc/t/battery-operated-wireless-lcd-display-repurpose-weather-station/293217))
 ![]
-(https://lh5.googleusercontent.com/-qIVOOzBeQVo/VWI0pGkRGnI/AAAAAAAAChM/Ct_1ZClvSMw/w1562-h1042-no/L26A2436.JPG)
+(https://europe1.discourse-cdn.com/arduino/original/3X/a/2/a2e7dff27161b6b9f27750cdb2f9f1436f869a07.png)
 
 #Introduction
 
